@@ -21,6 +21,8 @@
 * Compare prediction accuracy using ROC and AUC metrics: Evaluate logit, probit, SVM, and GBM models using ROC and AUC metrics.
 * Resampling methods: K-fold vs. Bootstrapping: Estimate logistic regression models using K-fold cross-validation and bootstrapping, and analyze the impact of polynomial degrees and bias.
 
-## Term Project
-
+## Term Project: Sentiment Analysis of News for Stock Price Movement Prediction
+* Led a research project on predicting stock prices using sentiment analysis on news articles, employing Hugging Face's pretrained models and diverse machine learning algorithms.
+* Achieved a prediction accuracy of 63.22% using an ensemble method, demonstrating a proficient application of ML models in finance.
+* Proposed enhancements to the predictive model by incorporating additional financial indicators.
 
